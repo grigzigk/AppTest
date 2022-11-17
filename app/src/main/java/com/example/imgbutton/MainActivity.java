@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         ImageButton imgButton1 = findViewById(R.id.imageButton);
         ImageButton imgButton2 = findViewById(R.id.imageButton2);
         ImageButton imgButton3 = findViewById(R.id.imageButton3);
+        Button btn =findViewById(R.id.button);
 
 
         CityName.setText("City name: "+"Serres");
